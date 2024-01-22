@@ -9,7 +9,7 @@ PDF query assistant that leverages cutting-edge technologies to facilitate dynam
 *  __Powerful Embeddings__: The project harnesses the capabilities of Vertex AIEmbeddings to generate powerful embeddings for both queries and historical conversations.
 * __Efficient Indexing__: Pinecone is employed to index and retrieve relevant information efficiently, enhancing the speed and accuracy of responses.
 
- for more concept based details read the document:
+ 
 
  ## Dependencies
  * [LangChain](https://python.langchain.com/docs/get_started/introduction)
