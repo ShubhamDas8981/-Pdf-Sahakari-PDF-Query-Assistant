@@ -1,4 +1,4 @@
-# 💻 PDF Query Assistant🤖: RAG model based conversational Interface with Vertex AI and Pinecone
+# 💻 (PDF Sahakari) PDF Query Assistant🤖: RAG model based conversational Interface with Vertex AI and Pinecone
 Quote:*"Talent wins games,but teamwork and intelligence wins championships."* ~Michael Jordan
 ## Project Description
 PDF query assistant that leverages cutting-edge technologies to facilitate dynamic conversations with a language model. The project integrates LangChain, Vertex AI, and Pinecone to provide users with an intelligent and responsive conversational experience.
